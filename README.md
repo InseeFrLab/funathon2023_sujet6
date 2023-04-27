@@ -14,6 +14,8 @@
       
 ## Data :
 Les données sont disponibles sur minio, sur le sspcloud :
+
+
 projet-funathon/2023/sujet6/data/Marcel Proust - A la recherche du temps perdu.txt
 
 ## Bibliographie :
