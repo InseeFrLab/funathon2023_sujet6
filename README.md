@@ -19,3 +19,11 @@ Les données sont disponibles sur minio, sur le sspcloud :
 projet-funathon/2023/sujet6/data/Marcel Proust - A la recherche du temps perdu.txt
 
 ## Bibliographie :
+- Revue des deux mondes de juillet 2019 :
+https://www.revuedesdeuxmondes.fr/proust-a-table-lire-a-la-recherche-du-temps-perdu-comme-un-livre-de-cuisine/
+
+- L'article ci-dessus entier en pdf https://github.com/InseeFrLab/funathon2023_sujet6/blob/9ee042107aba35fbc78113476f1a79fa13924db9/doc/Revue%20de%202%20mondes%20-201907%20-%20proust.pdf
+
+- Une méthode pour récupérer les ingrédients dans les recettes marmiton (attention ce script est en python 2 et ne marche certainement plus, mais le principe est là)
+https://dansmonlabo.com/2017/11/11/bataille-de-bouffe-decouvrez-les-ingredients-et-recettes-preferes-des-francais-1640/
+
