@@ -11,6 +11,15 @@
     - NLP
     - recherche d'entités nommées (NER)
     - la lecture de documents écrits par Marcel
+    
+## TODO list :
+- Charger le fichier txt d'à la recherche du temps perdu
+- Se familiariser avec la lib pyhton SPACY et produire des statistiques basiques du document (nombre de lettres, mots, lignes ...)
+- Calcul des mots les plus fréquents (on pourra faire un wordcloud avec)
+- Recherche d'entités nommées
+    - utilisation de SPACY ou d'un modèle Huggingface spécialisé dans le NER en français
+    - faire le "fine tuning" pour rajouter une catégorie d'entités FOOD
+    - sortir la liste des références à des aliments du texte
       
 ## Data :
 Les données sont disponibles sur minio, sur le sspcloud :
