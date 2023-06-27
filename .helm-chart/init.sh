@@ -1,0 +1,1 @@
+helm list | grep chart | cut -f1  | xargs helm uninstall || cd .helm-chart/ && helm dependency update . && helm install . --generate-name

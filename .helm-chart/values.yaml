@@ -1,0 +1,14 @@
+shiny:
+  image:
+    repository: cthiounn/dares-funathon-2023-sujet-6
+    tag: "main"
+  ingress:
+    enabled: true
+    hostname: dares-funathon-2023-sujet-6.lab.sspcloud.fr
+#  resources:
+#    requests:
+#      nvidia.com/gpu: 1
+#    limits:
+#      nvidia.com/gpu: 1
+  probe:
+    enabled: false
